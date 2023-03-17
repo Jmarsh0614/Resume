@@ -1,5 +1,8 @@
+head {}
+
 body {
     background-color: #0E8388;
+
 }
 
 hr {
@@ -7,5 +10,13 @@ hr {
     border-style: dashed;
     border-color: #CBE4DE;
     height: 2px;
-    width: 60%;
+    width: 100%;
+}
+
+#HeadShot {
+
+    height: 300px;
+    width: 300px;
+    border-radius: 25% 10%;
+
 }
